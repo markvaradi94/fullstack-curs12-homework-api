@@ -1,0 +1,9 @@
+server:
+  port: 8500
+
+spring:
+  data:
+    mongodb:
+      uri: "mongodb+srv://mark:mazare123@greencluster.rewht.mongodb.net/course12DB?retryWrites=true&w=majority"
+  application:
+    name: COURSE-12-API
